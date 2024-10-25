@@ -1,0 +1,1971 @@
+NARSHE [001]
++++++++++++++++++++++++++++++++
+
+"The ancient War of the Magi... When its flames at last receded, only the charred husk of a world remained. Even the power of magic was lost... In the thousand years that followed, iron, gunpowder, and steam engines took the place of magic and life slowly returned to the barren land. Yet there now stands one who would reawaken the magic of ages past and use its dreaded power as a means by wfhich to conquer all the world. Could anyone truly be foolish enough to repeat that mistake?"
+
+
+Wedge: 	There's the city.
+Biggs:	Hard to believe an esper's been found frozen there a thousand years after the War of the Magi.
+Biggs: 	Bah! Probably just another wild goose chase.
+Wedge:	I don't know. They wouldn't have let us use her unless they were confident that the information was good.
+Biggs:	Ah, yes...our witch. I hear she fried fifty of our Magitek armored soldiers in three minutes... Kinda makes your skin crawl, don't it?
+Wedge: 	Relax. With that thing on her head, she's a mindless puppet. The girl won't even breathe unless we tell her to.
+Wedge: 	We'll approach from the east! Move out!
+
+[Wedge, Biggs, and Terra make their way toward Narshe.]
+
+Wedge:	The girl takes point. And don't waste time on the riffraff! Remember what we're here for. Let's move!
+
+Guard:	Imperial Magitek armor!? Not even Narshe is safe anymore!
+
+Guard:	For Narshe!
+
+Guard:	We've got 'em trapped now!
+
+Guard:	Defend the mines!
+[Wedge, Biggs, and Terra arrive as the Narshe Mines.]
+
+Wedge: 	According to our source, they unearthed the frozen esper in a new mine shaft they were digging. This must be it.
+
+[The group arrives at a gate blocking their path.]
+
+Biggs: 	I'll handle this. Stand back!
+
+Guard:	We're not handing over the esper! Ymir! Get them!
+
+[The group enters into a battle with Ymir.]
+
+
+Biggs:	Hold it! This thing's a...! They must have trained it to guard the mines!
+Wedge:	What are you talking about? You know what this is?
+Biggs:	Ever heard of a lightning whelk? It's a monster that absorbs lightning.
+Wedge:	...and stores the energy in its shell!
+Biggs:	Right. So whatever you do, don't attack the shell!
+Wedge:	Got it!
+
+[The group defeats Ymir and make their way toward the esper.]
+
+
+Biggs:	So...this is the frozen esper?
+Wedge: 	This thing's giving me the creeps. Something's not right...!
+Girl:	...
+[The frozen creature begins emitting an eerie light...]
+
+Wedge: 	Wh-where's that light coming from!? Uwaaagh!
+Biggs:	Wh-what was that!? ...Wedge? Wedge, where are you? H-hey! What's going on!?
+Girl:	... ... ...
+
+[The girl awakens inside of a home in Narshe.]
+
+
+Girl:	  Where...am I?
+Old Man:  My, my! And I just removed the crown!
+Girl:	  My head...hurts...
+Old Man:  Easy, there! This is a slave crown. The others were using it to  control you. It was robbing you of your thoughts -- making it so   you'd do whatever they told you.
+Girl:	  I can't remember a thing...
+Old Man:  Don't worry. It'll all come back to you... In time, that is.
+Girl:	  ...
+
+"A mysterious young woman, born with the gift of magic, and enslaved by the Gesthalian Empire..."
+Girl:	  My name is...Terra...
+Old Man:  Impressive! I've never heard of anyone recovering so fast. You must be made of tougher stuff than most...
+
+[Outside, dogs and guards come up to the house where Terra is staying.]
+
+Guard: 	  Open up! We're here for the Magitek armor pilot!
+Guard:	  Open this door right now, and hand over that girl! She's an agent of  the Empire!
+Terra:	  Empire...? Magitek armor...?
+Old Man:  There's no time to explain! You need to get out of here! These fools  aren't going to listen to reason. This way! Quickly!
+Old Man:  Make your way out of town through the mines! I'll try to buy you some time!
+
+[Terra uses the backdoor of the home to make her escape through the bridge  above the city.]
+
+Guard: 	  Up there!
+
+[Terra enters into the mines, appearing to have escaped their grasp.]
+
+Guard: 	  There she is!
+
+[Terra, now cornered, falls into a hole and passes out, dreaming about her  past.]
+
+Kefka:	  My sweet little magic user... Uwee-hee-hee! With this slave crown, 	  you'll be all mine!
+
+[Flashback shows Terra facing off against Imperial soldiers.]
+
+Kefka:	  Uwee-hee-hee! Good, good! Burn them all to a crisp!
+
+[Flashback scene now switches to the Empire, where a speech is being given.]
+
+Gesthal:  Soldiers of the Empire! We stand at the dawn of a new age!
+Gesthal:  The lost power of magic has returned to us! We are the chosen ones!
+Gesthal:  The time has come for us to claim our rightful dominion over the  world!
+Gesthal:  Nothing shall stand in our way!
+
+"Hurrah!"
+"Long live Emperor Gesthal!"
+
+
+[Flashback scene ends showing a still unconscious Terra. Then goes back to the house of the old man.]
+
+
+Old Man:  Took you long enough! Busy with all that robbing and plundering, I 	  presume?
+
+
+"A treasure hunter and trail-worn traveler, searching the world over 	 for relics of the past..."
+
+Locke:	  I prefer the term "treasure hunting"!
+Old Man:  Ha! Semantic nonsense!
+Locke:	  There's a huge difference!
+Locke:	  Anyway, is there something you need me to do?
+Old Man:  There is indeed. ...I met the girl.
+Locke:	  ...!? You don't mean...?
+Old Man:  The city guard is pursuing her as we speak. This city has the  strength to stand up to the Empire, but it won't use it. The people   are just too stubbornly independent to join an underground resistance   group like the Returners. I tried to explain that the Empire was   controlling the girl, but they wouldn't even listen...
+Locke:	  All right... So, you want me to get her out of Narshe?
+Old Man:  That would be the idea. Make your way to Figaro for the time being...
+
+[Locke finds Terra at the spot where she passed out, still unconscious.]
+
+Guard: 	  Now we've got her!
+
+Locke: 	  Wonderful... There's a whole bunch of 'em....
+
+Kupo...
+
+Locke: 	  Moogles... Are you saying you want to help?
+
+Kupo!!!
+
+
+[Locke and the Moogles battle the guards to protect Terra.]
+
+Locke: 	  Thanks, moogles! We're in your debt!
+
+[Locke makes his escape from the mines with Terra.]
+
+
+Locke:	  This switch oughta...
+
+Locke:	  Eh? You back with us now?
+Terra:	  You... saved me?
+Locke:	  Save your thanks for the moogles!
+Terra:	  Ugh... I can't remember a thing... It's like my mind's trapped in a   fog...
+Locke:	  You lost your memory!?
+Terra:    A man said it would eventually come back...eventually...
+Locke: 	  So, you've got amnesia. Don't worry! I won't leave your side until	  until your memory returns!
+Terra: 	  ...?
+Locke:	  I'm not gonna up and abandon someone just because they lost their  memory! I'll keep you safe! I promise!
+
++++++++++++++++++++++++++++++++
+Figaro Castle [002]
++++++++++++++++++++++++++++++++
+
+Halt! ...Oh, it's you. Proceed.
+
+King: 	  You mean, this young woman is...?
+Terra:	  Who are you?
+King:	  Oh...my apologies!
+King:	  How rude of me to turn my back to a lady on our very first meeting!
+
+
+"The young king of Figaro Castle, Imperial ally, and champion of the	 technological revolution..."
+
+
+Edgar:	  I am Edgar, the king of Figaro.
+Locke: 	  Heh... Surprised that someone like me knows a king?
+Locke: 	  Well, I'll catch you two later!
+Edgar:	  So, you're an Imperial soldier, right? Don't worry. Figaro and the 	  Empire are allies. Feel free to rest here for as long as you'd like.	  It's not in my blood to harm a lady!
+Terra:	  Why are you being so kind to me? Is it because of my...abilities?
+Edgar:	  I'll give you three reasons. First of all, your beauty has captivated  me! Second...I'm dying to know if I'm your type! I guess your...  abilities...would rank a distant third.
+Terra:	  ...? What's the matter?
+Edgar:	  Guess my technique's getting a bit rusty...
+Terra: 	  Hmm... I suppose a normal girl would have felt something from those words. But...not me...
+
+[Terra explores Figaro Castle, eventually running into the High Priestess.]
+
+H.Priestess:   Edgar has a twin brother, you know. He was such a nice boy,      always thinking of his family...
+
+[Flashback scene occurs with Edgar sitting at a table.]
+
+Youth:	  Edgar, what's wrong with Dad? Why's everyone talking about a  successor?
+Edgar:	  Are you blind? Haven't you see how thin his face has become?
+Youth:	  ...? ...What do you mean?
+Youth:	  Edgar!
+Youth:	  Are you...crying?
+
+"Edgar's twin brother, who traded the throne for his own freedom..."
+
+H.Priestess:   Ah, yes...Sabin. I'm sure he's a fine young man by now. He was just a boy when he left -- even smaller than his brother. I often wonder where he is now, and what he's doing...
+
+[Terra goes back to the throne room to find Edgar.]
+
+Edgar:	  Well? How do you like my castle?
+
+King Edgar! There's someone from the Empire to you see you, sire!
+
+Edgar: Kefka, no doubt!
+
+[Kefka is seen crossing the desert with two Imperial soldiers.]
+
+Kefka:	  Phooey! Emperor Gesthal's stupid orders!
+Kefka:	  Edgar, you pinhead! Why do you have to live out in the middle of a  stinking desert? These recon jobs are the pits!
+Kefka:	  Ahem! There's SAND on my boots!
+Soldiers: All gone, sir!
+Kefka:	  How pathetic!
+
+Sir Kefka!? What in the world brings you--
+
+Kefka:	  Out of my way!
+
+[Edgar arrives to meet Kefka and the Imperial troops.]
+
+
+Edgar:	  You wouldn't be thinking of invading my kingdom next, would you? We  have an alliance...
+Soldier:  An alliance? With this miserable sandpit? Don't make laugh!
+Edgar:	  I hear you've been busy down south, taking over a country or three!  Just what is the Empire up to?
+Soldier:  That's none of your concern.
+Edgar:	  What brings Emperor Gesthal's own court mage, Kefka, to my humble 	  castle?
+Kefka:	  A girl of no importance recently escaped from us. We heard she found	  refuge here.
+Edgar:	  This wouldn't have to do with that "witch" everyone's been whispering  about, would it?
+Kefka:	  Lies! She merely stole something of minor value! Is she here?
+Edgar:	  That's a tough one...
+Edgar:	  There are more girls in here than grains of sand in the desert. A man  couldn't possibly keep track of them all!
+Kefka:	  Oh, Edgar... You know you only stand to lose from trying to hide her	  from us! Hee-hee-hee...
+Kefka:	  I truly hope nothing happens to your precious Figaro!
+
+[Kefka leaves and Edgar heads back to the throne room, running into Locke along the way.]
+
+
+Locke:	  I didn't like the sound of that...
+Edgar:	  Where's Terra?
+Edgar:	  Take her to her room...
+Edgar:	  I'd love to stay and chat, but the chancellor and I need to do some	 planning now. Being a king's not all tea and crumpets. If you'll  excuse me...
+
+[Edgar leaves and Locke leads Terra to her room.]
+
+Locke:	  Follow me.
+Locke:	  Sorry, I didn't mean to drag you around like this without giving you  a chance to rest. I'm--
+Terra:	  Locke, right? ...Edgar told me about you. Is it true that you're a	  thief?
+Locke:	  I'm a TREASURE HUNTER!
+Locke:	  On the surface, Edgar pretends to support the Empire. Truth is, he's	  collaborating with an underground resistance group called the 	  Returners. I serve as their go-between.
+Locke:	  The old man you met in Narshe is one of us, too.
+Terra:	  The Empire... But, I'm an Imperial soldier!
+Locke:	  Not anymore. They were using you. That's all! Things are different	  now.
+Terra:	  It's just... I don't know what I should do. Whenever I try to think,	  it just makes my head hurt even worse...
+Locke:	  All that matters is that you make your own decisions from now on. You don't have to think too hard right now. You'll know what you want to do when the time comes.
+Terra:	  But how will I know which choice is right...?
+
+[The scene switches to Edgar, who is awakened by something...]
+
+
+Edgar: 	  ...? What in the--
+Edgar:	  What's going on?
+Soldier:  It's the Empire! Kefka, he--
+
+[Kefka enters into the scene, with Figaro castle burning in flames.]
+
+
+Edgar:	  What do you think you're doing!?
+Kefka:	  Bring me the girl. Now!
+Edgar:	  I have no idea what you're talking about!
+Kefka:	  Oh? Then...enjoy the barbecue! Hee-hee-hee!
+
+[Edgar goes to talk to a soldier.]
+
+Edgar:	  Get her ready...
+Soldier:  Yes, sire!
+
+Kefka:	  Had a change of heart?
+Edgar:	  It seems I have no choice...
+
+
+[Edgar leaps off of the castle onto some chocobos below.]
+
+
+Edgar:	  ...Or perhaps I do!
+Kefka:	  Oh, my! The brave and noble king abandons his people to save his own  skin! How utterly delightful! Hee-hee-hee!
+Edgar:	  Jump!
+
+
+[Terra and Locke, waiting at a crossing on the castle roof, leap onto the other chocobos.]
+
+Edgar:	  All right! Sink her into the sand!
+Locke:	  Yahoo!
+
+
+[The Figaro soldiers begin to sink the castle into the sand.]
+
+
+Soldier:  Figaro Dive Mode engaged!
+
+Chancellor:  Witness the glory of Figaro!
+
+Kefka:	  Go! KILL THEM!!!
+
+
+[Two Magitek Armors come chasing after the group and a battle ensues.]
+
+
+Locke:	  What's the matter, Edgar? What made you jump like that all of a  sudden?
+Edgar:	  D-d-did y-y-you just see what I saw? You did, right? Right!?
+Locke:    Yeah, this kid's really something, huh?
+Edgar:	  REally...something!? That was magic! MA-GIC!
+Locke:	  M-M-M-M-MAGIC!? She used magic!?
+*whisper, whisper*...*whisper, whisper*
+Edgar:	  Terra...Your name was Terra, right? What...what exactly was that just  now?
+Terra:	  I'm sorry, I...
+Locke:	  No, we should be apologizing. I didn't mean to make such a big deal  out of it.
+Edgar:	  Nor did I, it just...surprised me. I mean I've never actually seen  magic before! Where did you...?
+Terra:	  ...
+Locke:	  It doesn't matter, does it, Edgar? Terra can use magic and we can't.  That's all there is to it. The fact is...her magic could really help us right now.
+Terra:	  Thank you, Locke! Thank you, Edgar!
+
+Ahhh...
+
+Edgar:	  Bravo, Figaro!
+
+Kefka:	  Son of a submariner! You'll pay for this!
+
+[Terra, Locke, and Edgar continue forward through the desert.]
+
+Locke:	  That was great!
+Terra:	  Were those bad people? I...I'm scared...
+Edgar:	  Terra, there's someone we'd like you to meet...
+Locke:	  Like I told you before, we're members of the Returners...
+Edgar:	  Would you be willing to meet our leader? Magic is going to be the key  to winning this war.
+Terra:	  Magic...
+Edgar:	  That esper reacted to your magical powers. There's got to be a   relationship...
+Terra:	  I don't know any more than you do. These powers just come naturally  to me.
+Edgar:	  But no human is born with the powers you have!
+Edgar:	  Forgive me.
+Terra:	  ...What should I do?
+Edgar:	  The Empire will be coming after us. They want your powers for their  own. And if they get them, the world is done for. Terra, you want to  understand your own powers, don't you?
+Edgar:	  Then I think you should meet with Banon. He may be able to help you  find out more about why you have them.
+Terra:	  ...
+Locke:	  Please... Edgar's right.
+Edgar:	  There's a cave just south of here that leads to South Figaro. Let's  head in that direction.
+
+[Edgar, Terra, and Locke head toward South Figaro.]
+
++++++++++++++++++++++++++++++++
+South Figaro Cave [003]
++++++++++++++++++++++++++++++++
+
+Soldier:  King Edgar! Where are you headed, sire?
+Edgar:	  Through the cave, and eastward to South Figaro. We'll then make for  the Returner headquarters in the north. Return to the castle and pass  the word along.
+Soldier:  Understood, sire! Take care!
+
++++++++++++++++++++++++++++++++
+South Figaro [004]
++++++++++++++++++++++++++++++++
+
+[The group arrives in South Figaro, encountering a strange individual.]
+
+...
+
+Locke: 	  Right, ignore us and maybe we'll just disappear...
+Edgar:	  Back off, Locke. That guy looks familiar... Yeah, that's him, all   right...
+
+
+"He comes and goes like the wind, swearing allegiance to no one. Hidden	 behind his wintry gaze lies a face known to none who live..."
+
+
+Edgar:	  That's Shadow... He's an assassin. He'd kill his own best friend for  the right price...
+Locke:	  Guess we'd better steer clear of him.
+Shadow:	  Leave us. The dog eats strangers...
+
++++++++++++++++++++++++++++++++
+Duncan's House [005]
++++++++++++++++++++++++++++++++
+
+Edgar:	  Hmm...? What's that smell...?
+Edgar:	  These flowers... He always liked these...
+Edgar:	  These dishes... They're just like the ones he always used!
+Edgar:	  This tea... It was his favorite.
+Edgar:	  Could Sabin be living here?
+
+Edgar:	  Hey...
+Edgar:	  Do you happen to know where I could find the man who lives here?
+Man:	  Sure do! Left a couple of days ago, soon as he heard Master Duncan  had been killed. Headed up into the mountains! They say Duncan's son	  Vargas is missing, too... I don't like it one bit!
+
++++++++++++++++++++++++++++++++
+Mt. Kolts [006]
++++++++++++++++++++++++++++++++
+
+Vargas:   Sabin sent you, didn't he?
+Locke:	  Who're you?
+Edgar:	  Sabin? Is he here?
+Locke:	  You were the one sneaking around us the whole way up here, weren't	  you?
+Vargas:	  And if I was?
+Vargas:	  Hmph. Well, it doesn't really matter who you are. I've got no plans  to surrender. Woe is the day you met me...it'll be the last of your  lives!
+
+[Party enters battle with Vargas.]
+
+Vargas:   come on! What's the matter?
+Vargas:   Enough of this! I'll send you to the great beyond!
+
+That's enough, Vargas!
+
+Vargas:	  Ah, if it isn't Sabin!
+Sabin:	  Why, Vargas? Why did you kill Master Duncan? How could you kill your  own father!?
+Vargas:   The fool snubbed me, his only son! He chose you as his successor!
+Sabin:	  That's not true! Our master--
+Vargas:	  It's true and you know it! It's written in that ugly sneer across   your face!
+Sabin:    He wanted you to be his successor, not me! He knew you had the most  potential...
+Vargas:	  I'm sick of listening to your lies! I've got far more than just  potential! Why don't you see for yourself?
+
+Blizzard Fist!
+
+Vargas:	  Ah, Sabin! My father was right to see so much in you!
+Sabin:	  I guess there's no avoiding this...
+Vargas:   Fate made us train together, and now fate will send you to your doom!
+Vargas:   Now... Get ready to join your beloved master!
+
+Vargas:	  Uaaagh! You...already learned...that technique!?
+Sabin:	  Vargas... If only you hadn't been so consumed by pride...
+
+[Sabin defeats Vargas.]
+
+
+Edgar:	  Sabin!
+Sabin:	  Brother?
+Locke:	  ...Brother? You're his twin brother!?
+Terra:    His...brother? At first, I thought you were another one of Vargas's  bears...
+Sabin:	  You thought I was a...bear?
+Sabin:	  I guess I'll, uh...take that as a compliment!
+Sabin:	  Anyway... Edgar, what are you doing here?
+Edgar:	  We're on our way to the Sabre Mountains.
+Sabin:	  To the Returner hideout, no doubt?
+Sabin:	  So, the wheels are finally turning... I've been watching from a  distance, hoping the world would come to its senses. The way things   were going, I was afraid Figaro would end up as a puppet state.
+Edgar:	  A means of striking back has presented itself. There will be no more  playing lapdog to the Empire... I'm through with that act.
+Sabin:	  Think a "bear" like me could be of any help?
+Edgar:	  You'd join us? Sabin...!
+Sabin:	  I think Duncan would rest easier knowing his training helped bring  peace to the world.
+Locke: 	  Well then, let's get going!
+
++++++++++++++++++++++++++++++++
+Returner Hideout [007]
++++++++++++++++++++++++++++++++
+
+King Edgar! This way, please!
+
+Edgar:	  Banon! We brought her with us.
+Banon:	  So, this is the girl... The one whom the esper responded.
+Terra:	  Esper...?
+Edgar:	  It seems the Empire had complete control over her.
+Banon:    Carrier pigeons have kept me informed. I also heard that she wipedout fifty Imperial soldiers in mere minutes...
+Terra:	  No, that's not...!
+Locke:	  Terra!
+Edgar:	  For heaven's sake, Banon! This girl doesn't remember anything!
+Banon:	  Hiding from the truth won't change it!
+Banon:    Perhaps you've heard this story before? Once, when people were still pure and innocent, there was a box they were told never to open. But someone went and opened it anyway, unleashing all the evils of the world. Pride...envy...greed...wrath...gluttony... The only thing
+that remained in the box was a single ray of light: hope.
+Terra:	  ...
+Banon:	  Your power is a gift, not a curse. No matter what happens, you must remember that. You are this world's last ray of light...our final hope.
+Edgar:	  Banon!
+Banon:	  I've grown weary with the hour... Allow me to rest for a while.
+
+[Banon leaves, and Locke and Terra converse in another room.]
+
+Locke:	  The Empire stole someone important from me. I've hated it ever since. If no one stands up to the Empire, more people will be left like me. That's why I joined the Returners.
+Terra:	  But, there's no one important in my life. I have no family...no friends...
+Locke:	  That's not true! And besides, I'm sure there are people who feel you're important to them. Those people are counting on you, too...
+
+[Terra leaves the room to find Banon.]
+
+Sabin: 	  I don't know what to tell you... But I do know that I trust my brother completely. He's always thought of my needs before his own, ever since we were little. I think you should trust him, too. But don't tell him I said that! He'll turn as red as a tomato!
+
+Edgar:	  It's not easy asking so much of you... And if we force our ideas on you, we're no different than the Empire. So...we want you to decide for yourself.
+
+Banon? He went outside just a moment ago.
+
+Banon: 	  Have you made your decision? Will you become our last ray of hope?
+Terra:	  Yes.
+Banon:	  Really? You will?
+Terra:	  But... I'm scared...
+Banon:	  The uncertainty you're feeling is only natural.
+Banon:	  Terra... I want you to have this.
+Terra:	  What is it?
+Banon:	  A charm to help you keep safe. Take it!
+Banon:	  I have a plan. Would you please gather everyone together?
+
+
+[Everyone gathers around the table to hear Banon's plan.]
+
+
+Banon: 	  Well then...
+Banon:    We all know that the Gesthalian Empire is using its Magitek power to wage war. The question is, where did they get that power?
+Edgar:	  I had Locke dig around for information. It seems the Empire has been gathering scholars from around the world to study espers.
+Locke:	  Narshe's esper was also the reason for the Imperial assault there.
+Terra:	  Are you saying there's some kind of connection between espers and Magitek?
+Banon:	  Espers and Magitek... Only one possible link comes to mind.
+Edgar:	  You don't mean...
+Banon:    The War of the Magi.
+"No!"
+"That's impossible...!"
+Locke:	  My grandma used to tell me bedtime stories about magical machines... ...Those stories were true?
+Edgar:	  You're saying we're on the verge of a second War of the Magi?
+Banon:	  It's only a guess. The war took place a thousand years ago, and every historian has a different theory. But one theory says that energy drained from espers was used to power machines...and that ordinary humans were also infused with the same energy.
+Terra:	  So that's what Magitek power is...
+Edgar:	  If we're going to fight Magitek enemies, we need Magitek weapons of our own.
+Banon:	 No! That would bring about another War of the Magi!
+Edgar:	  Then what do you propose?
+Banon:	  I was wondering if we might able to have a chat with an esper...
+Edgar:	  ...With an esper!?
+Banon:	  It's risky, but that esper reacted to Terra before... If we could get it to react to her again, we might just be able to wake it up.
+Edgar:	  Do you really think that would work?
+Banon:	  I can't say for sure, but I believe it's our best shot... Of course, we can't do anything without Terra's help.
+Locke:	  Terra...
+Terra:	  I'll do it.
+Sabin:	  I'm not entirely sure I understand the plan...but what the hey! This sounds like it'll be fun!
+
+[Sound heard from the entrance.]
+
+Banon:	  What was that? That noise just now...?
+Soldier: Banon, sir...! S-South...Figaro...
+Banon:	  What's wrong? What's happened!?
+Soldier:Th-the Empire's...t-taken South Figaro... They're headed...this way..
+Banon:	  So they've found us... We haven't a moment to lose!
+Edgar:	  Locke!
+Locke:	  I know... "Someone" has to sneak into South Figaro to slow down the enemy, right?
+Edgar:	  This is right up your alley. We're counting on you.
+Locke:	  Terra... Wait for me... I won't be gone long. ...And watch out for a certain lecherous young king who shall remain nameless. The guy moves in like a hawk!
+Edgar:	  Locke!
+Sabin:	  Edgar... Old habits die hard, eh?
+Banon:	  What about us?
+Edgar: We can escape down the Lethe River and make our way to Narshe. I'm curious about that esper they found in the mines...
+Banon:	  Very well. I'll ready the raft by the back entrance. It's risky, but we don't have much of a choice at this point.
+Edgar:	  It's not safe here. Come with us to Narshe... It could be a chance for you to gain a better understanding of your abilities.
+Banon:	  We've no time to dilly-dally. Let's make for Narshe!
+
++++++++++++++++++++++++++++++++
+Lete River [008]
++++++++++++++++++++++++++++++++
+
+Here we go! This raft will carry us to Narshe!
+
+[The party whilst rafting down the river runs into an octopus.]
+
+Hey, what've we got here?
+
+Ultros:	  Gwee-hee-hee... You're up the creek without a paddle. And I'm not gonna let you through! ...Does that make me a bad octopus?
+Ultros:	  Oh, that one's a tasty morsel! I'd love to get my tentacles around her... *sluuuuuurup*!
+Ultros:	  Oh, that one's a tasty morsel! I'd love to get my tentacles around her... *sluuuuuurup*!
+Ultros: Yeowch! Seafood soup!
+Ultros:	  Muscle-heads? Hate 'em!
+
+Sabin:	  I guess it got the point...?
+Edgar:I wouldn't bet on it...It's probably just hiding down there.
+Terra:	  Ewww!!! Something's stuck to my leg!
+Edgar:	  Terra! Get away from there!
+Banon:	  We should be all right now.
+Sabin:	  Eight-armed freak... I'm gonna smash it with a blitz!
+Edgar:	  No! Sabin!!!
+Sabin:	  Out of my way, Edgar!
+
+
+[Sabin jumps into the river after Ultros.]
+
+
+Edgar:	  Well, he's always been a bit rash...
+Terra:	  Sabin...
+Banon:	  Oh, he'll be fine!
+Edgar:	  Are you sure, Banon? ...Sir?
+Banon:	  You're his brother! You should know better than any of us. Any second now he'll flop back up onto the raft, right as rain!
+
+[Sabin shoots up out of the river, but way over the raft.]
+
+Sabin: 	  Waaaaaa!
+Banon:	  ... ...
+Edgar:	  Think he missed the "onto the raft" part. Ha-ha...
+Terra:	  Sabin!!!
+Edgar:	  Sabin! You're on your own now!
+
+Sabin!
+
+Mog: "Edgar and Terra race toward Narshe while protecting Banon... But what of Sabin, who was swept away by the raging waters? And how is Locke faring after having penetrated the Empire's defenses in South Figaro? Is all going according to plan...?"
++++++++++++++++++++++++++++++++
+Locke's Scenario - South Figaro [009]
++++++++++++++++++++++++++++++++
+
+"Locke has worked hard to stymie the efforts of the Imperial troops in South Figaro. But now he desperately needs to escape..."
+
+Locke:	   Dammit! Gotta get to Narshe on the fly...
+
+Merchant:  ...You're that infamous thief, Locke, aren't you?
+Locke:	   Oh, now that was just plain rude. I'm a treasure hunter...and don't you forget it!
+
+
+[Locke steals the Merchant's clothes.]
+
+
+Locke:	   Here we go! They're a little tight, but the price was right!
+Merchant:  Why do I always have to go and open my mouth...
+
+
+[Locke gains access to the secret passage.]
+
+
+My grandpa used to be a servant for the richest family in town.
+You're a merchant, right? Okay, go ahead.
+
+
+[Locke engages an Imperial soldier, attempting to steal his uniform.]
+
+
+Locke: Here we go! They're a bit too large, but he didn't charge!
+
+
+[Locke enters into the local pub, looking for cider.]
+
+
+Hey, you! Came to steal my cider, did you? You dirty little thief!
+
+
+[Locke takes the cider back to the old man.]
+
+
+Ah, cider! *glug, glug*... Hmm? Secret passage? Well, yes, there is a tunnel from here to the mansion on the north end of town... Go downstairs and tell my grandson the password. It's, uh...umm... I forget!
+
+
+[Locke goes downstairs to talk to the grandson.]
+
+Grandson: The password is...
+Locke:	  "Courage."
+Grandson:  I'll show you the secret entrance.
+
+
+[Locke enters through the entrance and checks into one of the doors below.]
+
+
+Locke:	  I know I've seen her before... Wait a second... She's one of the Empire's generals!
+
+Guard:	  This is what happens to traitors!
+
+
+"A Magitek knight forged by the Empire and tempered in battle. None have ever truly known the woman beneath the general's guise..."
+
+
+Guard:	  So, the mighty Celes has fallen!
+Celes:	  Not as far as those who'd use their strength to oppress the weak...
+Guard:	  Quiet!
+Celes:	  Kefka's planning to poison every last man, woman, and child in the kingdom of Doma.
+Guard: 	  Shaddup!
+Guard:	  Hmph! Run that mouth of yours while you still can... Your execution's tomorrow. Keep a close eye on her!
+Guard:	  Yes, sir! I can stand guard for days without sleep!
+
+
+[Locke enters into the room after the guard leaves to see a collapsed Celes.]
+
+
+Locke:    Her hands are bound...
+Celes:	Aren't you a little short for an Imperial soldier?
+Locke: Oh! [changes back clothes]
+Celes:	  And you are...?
+Locke:	  Name's Locke. I'm with the Returners.
+Celes:	  You're a Returner!? I'm...or at least I was...General Celes. Now I'm nothing but a traitor.
+Locke:	  Well, let's get going!
+Celes:	  ...!? You'd take me with you?
+Celes:	  ...No. I can barely walk. I'd never make it out of here.
+Celes:    I appreciate it, but... Even if you got me out, you wouldn't be able to protect me. I'm better off waiting here for the executioner. At least that way I'll keep my pride...
+Locke:	  I'll protect you!
+Locke:	  Trust me! You'll be fine!
+Locke:	  Let's go!
+Celes:	  Wait.
+Celes:	  This soldier might have something on him that could help us get out of here.
+
+Zzz... Zzz...
+There's a clock key in his pocket...
+
+Soldier:  ...more soup...'n...*mumble*...*mumble*...
+
+
+[Locke and Celes make their way out of the basement area of the house.]
+
+
+Celes:	  Why are you helping me?
+Locke:	  You remind me a lot of someone...
+Locke:	  What's it matter, anyway? I'm helping you because I want to!
+
++++++++++++++++++++++++++++++++
+Locke's Scenario - South Figaro Cave [010]
++++++++++++++++++++++++++++++++
+
+[Locke and Celes enter the South Figaro Cave, almost reaching the exit before hearing something.]
+
+Locke:	  What is that noise?
+Locke:	  What is that?
+Celes:	  Something's coming through the wall!
+
+
+[Locke and Celes enter into a battle.]
+
+
+Celes:	  Tunnel armor! If that thing hits us with its magic...they'll be scrubbing two big scorch marks off the wall!
+Locke:	  What are we supposed to do!?
+Celes:	  Don't worry! I'll draw its magic with my runic blade!
+Locke:	  And you'll be okay!?
+Celes:	  Just you watch!
+
+
+[The two defeat the Tunnel Armor.]
+
+Locke:	  Whew! Looks like we're finally in the clear.
+
+
+[Locke's scenario ends.]
+
++++++++++++++++++++++++++++++++
+Terra, Edgar, and Banon's Scenario - Lete River [011]
++++++++++++++++++++++++++++++++
+
+"Fleeing the Empire's troops, Banon, Edgar, and Terra ride the rapids toward Narshe. But the going won't be easy..."
+
+
+[Terra, Edgar, and Banon arrive on land, right outside of Narshe.]
+
+
+Terra:	  When Locke first rescued me, we came out of the mines right around here. He fiddled with something...
+Edgar:	  Yes, he told me. Twist the stone like so, and...
+
+
+[Terra, Edgar, and Banon enter into the caves and see a mysterious light.]
+
+
+Edgar:	  This must be the place...
+Terra:	  What place?
+Edgar:	  There's a room in here they use to test applicants to the city guard. We should be fine as long as we follow the light. If we make a mistake, lights will surround us. Then we'll have to tag the glimmering orange light to proceed.
+
+[Terra, Edgar, and Banon enter into the Old Man's house.]
+
+Arvis: 	  Banon! King Edgar! Oh, and Terra, too!
+Banon:	  Arvis! how do things stand here in Narshe?
+Arvis:	  Same as always. The town's neutral. I've tried to convince them to side with the Returners, but it's no use. Of course, maybe with you and the king of Figaro here...
+Edgar:	  How are the townspeople?
+Arvis:	  Everyone's been a little on edge since the esper was discovered.
+Banon:	  We believe Terra may be able to help us get answers to our questions about the esper.
+Arvis:	  Well, the townspeople are still quite curious about it as well. If we approach them in the right way, there's a good chance they'll agree to let her see it.
+Edgar:	  That esper is either going to save us...or dig us an early grave.
+
++++++++++++++++++++++++++++++++
+Sabin's Scenario - The Veldt [012]
++++++++++++++++++++++++++++++++
+
+
+"What dire fate has befallen Sabin, who leapt from the raft after the fight with Ultros...?"
+
+
+[Sabin enters into a home near the river.]
+
+
+Sabin:	  You...another traveler? You don't happen to know how I could get to Narshe, do you? I got separated from my friends.
+Shadow:	  The Empire has set up camp just beyond the forest to the east.
+Sabin:	  The Empire!? What are they doing here?
+Shadow:	  They seem to have their eyes on Doma Castle.
+Sabin:	  So Doma's next, huh...? But I need to get to Narshe right away!
+Shadow:	  Your only road passes through Doma. I can take you there if you'd like. Just know that I may leave you at any time...
+Shadow:	  Death is always just a step behind me...
+
++++++++++++++++++++++++++++++++
+Sabin's Scenario - Imperial Camp / Doma Castle [013]
++++++++++++++++++++++++++++++++
+
+An Imperial camp... There are an awful lot of soldiers here...
+
+Soldier A:  Hey, did you hear?
+Soldier B:  Oh, you mean--
+Soldier A:  Shhh! Keep your voice down! If Kefka catches us, we're toast!
+Soldier A:  They say Kefka's plotting to drive away General Leo so that he can take over his position as general...
+Soldier B:  Don't even joke about something like that. If that freak becomes our general, I'll quit!
+Soldier A:  Shhh! What if he hears you? You'll be locked up!
+Soldier B:  All right, all right!
+Soldier B:  Uh-oh... Here he comes! Quick, back to your post!
+Kefka:	    Hey, you! You keeping a sharp lookout? Hmm?
+Soldier A:  Yes, sir! Kefka, sir! What a pleasant surprise! How are you today, sir?
+Kefka:	    Please, spare me your petty small talk! Just do your job! And don't let me catch you slacking, or I'll make you regret being born!
+Soldier B:  Hmph! Like we're gonna listen to you, you pompous little... What's wrong with that guy, anyway? It's like General Leo got all the good qualities a man could have, and Kefka got stuck with the rest...
+Soldier A:  Shhh! I just told you to keep it down! How many times are you gonna make me say it?
+Soldier A:  You've gotta be more careful! General Leo may be a decent man, but Kefka...that guy's twisted!
+Soldier B:  Tell me about it...
+Captain:    You there! We're about to storm the castle. The two of you will join the assault squad. Get moving!
+
+[The scene switches to Doma Castle, right before the Empire begins its assault]
+
+Captain: 	Charge!
+
+Doman Sentry:   It's hopeless! We can't keep them all out!
+Doman Sentry:   So, this is it..
+Wait! The battle is not yet lost!
+
+
+"A noble warrior of a foreign land. A faithful retainer to his lord
+and master, he fears not even death..."
+
+Cyan:	  If we can but fell their commander, they should break rank and withdraw.
+Cyan:	  I shall meet him on the field of battle.
+
+
+[Cyan and the two Sentry's head out to the battle.]
+
+
+D.Sentry: Sir Cyan! Please, defeat their commander!
+
+Cyan: I am Cyan, retainer to the king of Doma. Ready thy axe!
+
+Soldier:  The captain's been defeated! Retreat!
+
+Cyan: Withdraw into the castle. We shall wait within its walls, while our enemies grow tired without.
+
+[The scene now switches back to Sabin and Shadow at the Imperial Camp.]
+
+Soldier:  General Leo, sir. The Domans appear to be playing a waiting game.
+Leo:      So, they're using their favorite strategy...
+Soldier:  General... We're ready to storm the castle as soon as you give the order...
+Leo:	  Patience! If we attack now, there will be too many casualties.
+Soldier:  But...General! I'm prepared to lay down my life for the Empire at any time!
+Leo:      You're from Maranda, are you not?
+Soldier:  Huh? I mean, yes, sir, I am, but...why do you ask, sir?
+Leo:	  You would have me go there and deliver the news of your passing to your family? What would I say when I handed them your sword? How could I even look at them? You're a human being before you're a soldier. Don't be so eager to throw away your life. Emperor Gesthal wouldn't want you to die for nothing.
+Soldier:  Yes, sir!
+
+Soldier:  General Leo, sir! A carrier pigeon arrived from Emperor Gesthal!
+Leo:      What...? The emperor summons me. I must return at once.
+Soldier:  Understood, sir.
+Leo:      I'll leave the rest in your hands.
+Soldier:  Yes, sir.
+Leo: 	  Listen to me... Don't rush things. That's all I ask.
+Soldier:  Sir! Leave it to us, sir!
+Leo:      I'm counting on you.
+
+So that's General Leo... He may be an enemy, but he seems like a decent man.
+
+Kefka:    Once Leo's gone, I can turn this water into a flowing river of poison!
+Anyone who touches it'll be pushing up daisies! Hee-hee...
+Leo:	  I'm afraid the emperor has called me back home. Try not to cause any trouble in my absence.
+Kefka:    Hmph! I'll take care of things fast than you ever would!
+Leo:	  Nothing dirty, Kefka! They may be our enemies, but they're still human beings. Try not to forget that.
+Kefka: 	  We needn't show mercy to those who side with the Returners. ...Which is good, because I never seem to have any of the stuff.
+
+
+[General Leo leaves.]
+
+
+Kefka:    Yes, you just go off and be a good little boy...
+
+Kefka:	  Is the poison ready?
+Soldier:  But, General Leo said--
+Kefka:    Leo's not here anymore. I'm in charge now. Fork it over!
+Soldier:  Some of our people are being held prisoner inside the castle! If any of them were to drink the water...
+Kefka:    Who cares? They're the ones who were stupid enough to get caught by the enemy!
+You're inhuman!
+Kefka:	  Gah...! Pests at every turn! Guess I'll have to take care of you, too!
+
+[Sabin and Shadow enter into battle with Kefka.]
+
+Kefka:   Yeouch!!!
+Sabin:	 Kefka! Wait!
+Kefka:   "Wait," he says... Do I look like a waiter?
+
+[Kefka flees from battle.]
+
+Wait!
+Wait!
+
+Kefka: 	  *gasp*... *pant*... You just don't give up, do you?
+
+
+[Sabin and Shadow enter into another battle with Kefka.]
+
+
+Kefka:    Yeouch!!!
+Sabin:    Kefka! Wait!
+Kefka:    "Wait," he says... Do I look like a waiter?
+
+
+[Kefka flees from battle again.]
+
+
+Kefka:    Gah! how long do you expect me to put up with this? Next time I won't hold back!
+
+Kefka:Oh,gripe!This is getting tiresome.Hey,you!Handle the rest!
+
+[Sabin and Shadow enter into battle; Kefka is seen riverside afterward.]
+
+Kefka: 	  Hee-hee... Nothing beats the sweet music of hundreds of voices screaming in unison! Uwee-hee-hee!
+
+[Kefka pours the poison into the river and the scene switches to Doma Castle.]
+
+
+D.Sentry: Sir Cyan! There's a great deal of activity in the Imperial camp. I think they may be preparing another assault.
+Cyan:     Hmm...? Does the water not look a bit...odd?
+
+
+[Doman Sentry's beginning collapsing all over the castle.]
+
+
+D.Sentry: Sir Cyan!
+Cyan:     It must be...poison!
+D.Sentry: What a low-down, contemptible...!
+Cyan:     We must warn the king!
+
+D.Sentry: To the king, with all haste!
+Cyan:     Yes! The throne room is just ahead!
+
+[Cyan enters into the throne room.]
+
+
+Cyan:	  Your Highness!
+King:     Who's there...?
+Cyan:     Cyan, Your Excellency!
+King:     Oh, Cyan... My sight is failing... I cannot see your face...
+Cyan:     Excellency! Please, you must be strong!
+King:     Cyan... You have defended this realm since the days of my father before me... I thank you...for your service. Urgh... Forgive me... I failed to protect our kingdom...
+Cyan:     No, Excellency, the fault lies not with thee!
+King:     I fear for your family... Ohhh...my chest burns...with every breath..
+Cyan:     Speak not, my lord! Save thy strength!
+King:     Go...to your family...*cough*...*gasp*... ...
+Cyan:     Excellency!
+D.Sentry: Sir Cyan!
+Cyan:     There may still be survivors in the castle!
+D.Sentry: Let's split up and search...
+
+[Cyan goes searching the castle for remaining survivors.]
+
+Cyan:     Elayne! Don't leave me, Elayne!
+Cyan:	  This... This is unpardonable...
+Cyan:	  ...!
+Cyan:	  Oswain!!!
+Cyan: 	  No... No...!
+Cyan: 	  This is not possible... This cannot be happening!
+Cyan: I will not forgive them...! The Empire must pay for this!
+
+[Cyan rushes out of the castle toward the Imperial camp.]
+
+Cyan:	  I am Cyan, retainer to the king of Doma!
+Soldier:  Enemy!!! All men, to your positions!
+Sabin:	  !!!
+
+Sabin: 	  Let me give you a hand!
+Cyan:I know not they name or allegiance,but I welcome thy aid!
+
+
+[Sabin and Cyan enter into battle.]
+
+
+Cyan:	  Grrr! There will be no mercy for thee!
+Sabin:	  These ones next!?
+Cyan:	  Grrr! They are tougher than they would appear!
+
+
+[Sabin and Cyan enter into battle.]
+
+
+Cyan:	  Who poisoned the river!?
+Sabin: 	  Look, I think we're gonna have to do this together!
+Cyan:	  The thought occurred to me as well!
+
+
+[Sabin and Cyan enter into another battle.]
+
+
+Cyan:	  I am in they debt!
+Sabin:    No need for thanks! I'm Sabin, from the kingdom of Figaro. We should get out of here!
+Cyan:	  But I must avenge my family and my countrymen...!
+Sabin:	  If we stick around any longer, we'll have an entire regiment down our throats!
+
+Soldier:  There they are! This way!
+
+Sabin:    Hoo, boy...
+Sabin:	  I have an idea... Follow me.
+
+Cyan:	  Sir Sabin! What manner of armored beasts might these be?
+Sabin:	  I'll explain later! Just climb in!
+Cyan:	  Sir Sabin! How does one manipulate these abominations?
+Sabin:	  Oh, for...! Thou art getting to be quite a pain in the-- Great, now I'm even starting to talk like you!
+Sabin:    Listen! See that lever? The one right by your hand? Push it down.
+Cyan:	  Sir Sabin! It appears to be in reverse!
+Sabin:    Yeah, yeah... Come on!
+Soldier:  Hey! What do you think you're doing!?
+Cyan:	  Aaahhh! I cannot stop this monstrosity!!!
+
+
+[Cyan knocks out multiple soldiers.]
+
+
+Sabin:    Okay, let's bust our way out of here!
+
+Hold it right there!
+Here they come! Stop them!
+Do you really think you'd get away?
+
+
+[Sabin and co. reach the exit of the Imperial camp.]
+
+
+Sabin:	  Okay, I think we should be safe now! So, how do I get to Narshe from here?
+Cyan:	  Narshe? I believe the only route passes through the forest to the south, but--
+Sabin:	  All right! If we're going into the woods, I guess we won't be needing these hunks of scrap metal anymore. Let's get going!
++++++++++++++++++++++++++++++++
+Sabin's Scenario - Phantom Forest / Train [014]
++++++++++++++++++++++++++++++++
+
+
+[Sabin and co. make their way through the Phantom Forest, then arriving at a mysterious train.]
+
+
+Cyan:	  A train!? I thought all of Doma's railways had been destroyed in the fighting...
+Sabin:	  There could be survivors. Let's take a look inside.
+
+Sabin:	  Hey! Looks like we get can get through here.
+Cyan:	  Sir Sabin!
+Sabin:	  We can't just wander around out here all day. We have to check inside!
+Cyan:	  Sir Sabin!
+Sabin:	  Don't worry, it'll only take a second!
+Cyan:	  Sir Sabin!
+
+
+[Sabin gets onto the train.]
+
+
+Sabin:	  What in the world...?
+Cyan:	  We must leave at once! This is the Phantom Train!
+Sabin:	  It's moving!
+Cyan:	  We must get off this train at once!
+Sabin:	  The door won't open!
+Cyan:	  I fear we are too late.
+Sabin:	  What did you say this train was?
+Cyan:	  This is the Phantom Train... It carries the souls of the departed to their...final destination.
+Sabin:	  ...Wait a second. You're saying this train's giving us a one-way ride to...the afterlife!?
+Cyan:	  Unless we find a way off, I am afraid that is exactly where we will end up...
+Sabin:	  Well, I'm afraid that's a trip I'm going to have to pass on! If it won't let us off, then we'll stop it ourselves. Let's make for the engine.
+
+
+[Sabin and co. head toward the engine at the front of the train.]
+
+
+...No...escape...
+
+
+[The party enters into battle with a strange ghost.]
+
+
+Whew... What do you suppose that was all about?
+...No...escape...
+Huh!?
+...No...escape...
+Who's there!? It came from over here.
+...No...escape...
+Gah! They're coming after us...!
+...No...escape...
+There are more of them this way!
+Nowhere to run...
+Nowhere to hide...
+No escape for you...
+
+Nowhere to run...
+Nowhere to hide...
+No escape for you...
+
+Nowhere to run...
+Nowhere to hide...
+No escape for you...
+
+They just don't let up!
+
+
+[The party runs from the ghosts.]
+
+
+Cyan: 	  I believe we have reached a dead end, Sir Sabin!
+Sabin:	  All right!
+Cyan:	  Hast thou an idea?
+Sabin:Yes... The time has come to put my training to use! Come, Cyan!
+Sabin:	  Yahoooo!
+
+
+[Sabin leaps from the roof of the train onto another car and then another.]
+
+
+...No...escape...
+Hey... They couldn't still be...?
+They just don't let up!
+We'll have to detach the rear cars!
+
+
+[The party detaches the car with all of the ghosts.]
+
+
+That should be the end of that...
+
+Sabin:	  Food! Food! Bring me everything you've got!
+Cyan:	  It this train's food tr-truly safe to eat?
+Sabin: What are you worried about? Can't wage war on an empty stomach!
+Cyan:	  *sigh*... Do what thou wilt, sir. I'm sure there is no stopping thee...
+*gobble*...*snarf*...*slurp*...
+Sabin:	  Whew! I'm stuffed! Shall we get moving?
+
+[The party enters into the next car and enters a room.]
+
+Voice:	   Hold it right there!
+Man:	   I am Siegfried, the greatest swordsman in all the world! And that treasure belongs to me! If I were you, you overmuscled moose, I'd grab Grandpa there and run away while you still can!
+Sabin:	   "Greatest windbag" is more like it... You're the one who had best beat a brave retreat.
+Siegfried: What!? Brazen words for a man about to be spitted upon my blade like a plump and juicy pig! En garde!
+
+[Sabin and co. enter battle with Siegfried.]
+
+Siegfried: Here I come! You kids had better get ready! Hi-yaaaaaa!!!
+
+All bark, no bite...
+Siegfried: N-no!It cannot be! But...the last laugh belongs to me!
+Siegfried: Uwa-ha-ha! The treasure is mine! Au revoir, my friends!
+
+
+[The party makes their way to the front of the train.]
+
+This is the engineer's compartment. We've gotta fine a way to stop this thing, fast!
+
+The train should stop if we throw this switch.
+
+Phantom Train:  So! You're the ones who have been slowing me down!
+
+
+[The party enters battle with the Phantom Train!]
+
+
+Phantom Train:  I will let you go... But first there is something I must do...
+
+
+[The Phantom Train comes to a halt, letting Sabin and co. off.]
+
+
+Cyan:	  It seems we have arrived.
+Sabin:	  Whew! Glad to be off that thing!
+Sabin:	  The faster we leave that train behind, the better!
+
+Cyan:	  Is that...!? Elayne! Owain!
+Sabin:Cyan! Was that your wife and son!?...The train's leaving!?
+Cyan:	  Please, wait!
+Cyan:	  Elayne!
+Cyan:	  Owain...
+
+My love...
+You made me so happy.
+Thank you...
+
+Dad!
+I'll keep practicing with my sword so I can keep Mom safe!
+
+Shadow:	  Best leave him be.
+Cyan:	  ...
+
++++++++++++++++++++++++++++++++
+Sabin's Scenario - Cave to Baren Falls [015]
++++++++++++++++++++++++++++++++
+
+Sabin:	  This must be Baren Falls...
+Cyan:	  To the south of here lies the Veldt. 'Tis a wild and dangerous land, inhabited by all manner of ferocious beasts...
+Sabin:	  But if we turn around and go back, the Empire will be waiting for us.
+Cyan:	  Hmm... The village of Mobliz lies on the eastern coast. If we can make it through the Veldt, we could head there...
+Shadow:	  I have served my purpose...
+Sabin:	  Shadow!
+Sabin:	  Thanks for your help! Let's team up again sometime!
+
+[Sabin and Cyan jump off of the Baren Falls, eventually floating up on the shore of the Veldt.]
++++++++++++++++++++++++++++++++
+Sabin's Scenario - The Veldt [016]
++++++++++++++++++++++++++++++++
+
+
+"A youth draped in monster hides, his eyes shining with a warm and gentle light..."
+
+Who...are...?
+
+Gau:	  Uwaoo~!
+Gau: 	  Oooh... I'm hungry!
+
+
+[The group gives Gau some Dried Meat.]
+
+
+Sabin:	  Wh-what the...?
+Cyan:	  What a...peculiar child!
+Cyan:	  I am Cyan, and this is Sabin.
+Gau:	  You Sabin...you Cyan... Me want more food!!!
+Sabin:	  Sorry, all gone!
+Gau:	  You go...get more for me.
+Sabin:	  You're a regular little munchkin, huh?
+Gau:	  And you...afraid of me!
+Sabin:	  You want some of this?
+Gau: 	  Me not want hurt you...
+Sabin:	  Stop looking at me like that!
+
+
+[Sabin and Gau jump around.]
+
+Sabin: *gasp*...*wheeze*...You're pretty tough...for a little guy!
+Gau:	  Wah-ha-ha! That fun! You strong!
+
+
+[Sabin and Gau repeat it, but Gau stops early.]
+
+
+Gau:	  You fall for it! Fall for trick!
+Sabin:	  Shut up!
+Cyan:	  Oh, dear... Do simmer down, sirs! And thou, o wild one... Who might thou be?
+Gau:	  Thou?
+Gau:	  Thou! Thou!
+Gau:	  Thou! Thou!
+Gau:	  Thou! Thou!
+Gau:	  Thou! Thou!
+Gau:	  You angry?
+Gau:	  Cyan! You angry...me?
+Gau:	  Cyan! You angry...me?
+Gau:	  Cyan! You angry...me?
+
+
+[Sabin drags Gau over to the side.]
+
+
+Sabin:	  Listen, his family just... *whisper whisper* *whisper whisper* ...Okay?
+Gau:	  Me understand...me sorry. Gau not mean person...
+Cyan: 	  Water under the bridge! Let us not dwell on such things. Sir Gau, I have a feeling we will get along quite well. Wilt thou join us?
+Gau:	  Oh!!! Gau give you present! Gau give Cyan and Sabin nice present, thanks for food!
+Sabin:	  Right... What manner of rubbish do you suppose he's gonna give us?
+Gau:	  Gau's treasure...shiny, shiny! Shiny, shiny, shiny!!!
+Sabin:	  ...Can anything be THAT shiny?
+Gau:	  Mr. Thou like shiny thing?
+Sabin:	  Mr. Thou's that one -- over THERE!
+Sabin:	  A shiny thing, eh? Locke's gonna be jealous when he hears about this!
+Gau:	  Who Locke? He bad man? Maybe he try to steal Gau's treasure!
+Sabin:	  Locke? Well, he's...
+Sabin:	  Listen when someone's talking to you!
+Cyan:	  I believe he's trying to tell us something!
+Sabin:	  ...*sigh* Fine... Well, what is it?
+Gau:	  Here! Here! Shiny thing here!
+Gau:	  Where Sabin is, that Mobliz!
+Gau:	  Cyan stand place river bring you... Gau stand...Crescent Mountain! Moon-shape mountain! Shiny thing there!
+Cyan:	  Well then, shall we be off? We might as well see what's at this Crescent Mountain of his.
+
+
+[The group begins to heard toward Crescent Mountain, but Sabin lags behind.]
+
+Sabin:	  *sigh*... Why'd we have to invite someone like him along?
+Gau:	  Mr. Thou! Hurry up! We leave you behind!
+Sabin:	  I told you before... My name is NOT "Mr. Thou"!
++++++++++++++++++++++++++++++++
+Sabin's Scenario - Crescent Mountain Cave [017]
++++++++++++++++++++++++++++++++
+
+
+[Sabin, Cyan, and Gau enter Crescent Mountain and Gau looks around.]
+
+
+Sabin:	  Cyan! That "shiny, shiny" thing of Gau's is in here.
+Cyan:	  And where exactly might it be found, Sir Gau?
+Gau:	  Gau...forget!
+Sabin:	  Shall we look around?
+Cyan:	  It seems we have no choice!
+
+Cyan:	  Is this it? The shiny treasure?
+Gau:	  Treasure, treasure!
+Cyan:	  'Tis nothing but a dirty class bowl...
+Sabin:	  Kind of looks like it would fit over your head...
+Sabin:	  Hmm...! I wonder if we could use this?
+Sabin:	  It might let us breathe underwater.
+Sabin:	  All right, let's go!
+
+
+[The party exits the cave onto a cliff overlooking the river.]
+
+
+Cyan:	  These rapids look quite...rapid.
+Sabin:	  No kidding.
+Sabin:	  But it's the only way to make it in time to meet up with the others..
+Sabin:	  All right, let's go!
++++++++++++++++++++++++++++++++
+Sabin's Scenario - Nikeah[018]
++++++++++++++++++++++++++++++++
+
+[The party enters into the pub.]
+
+Dancer:	  Hey, you handsome young thing... Why don't you come have a drink with me? Tee-hee!
+Cyan: H-how dare you!? Licentious howler! Off...off with thee!
+Dancer:	  Oh, don't be a stick in the mud! Let's just have some fun! Hey, do you like these? I call this one Humpty, and this one Dumpty!
+Cyan:	  H-humpty!? D-Dumpty!?
+Sabin:	  Cyan, you're too easy!
+Cyan:	  Th-thou art unaffected by these...charms!?
+Sabin:	 One of the benefits of all my years of ascetic training!
+Dancer:	  Oh, don't leave me standing here all alone!
+Cyan:  Enough of that! A proper woman should have modesty, and...and decency!
+And...*rant*...*rant*...*rant*...
+Oh, Cyan...!
+
+[Sabin and co. hop aboard a ferry bound for Narshe.]
+
+Cyan:	  Narshe is just a stone's throw away.
+Sabin:	  I wonder if the others arrived safely...
+Cyan:	  I am sure they did.
+Gau:	  Me hope so, too...
+
++++++++++++++++++++++++++++++++
+Narshe [019]
++++++++++++++++++++++++++++++++++
+
+"The three groups have arrived in Narshe, and now a decisive battle is about ot unfold..."
+
+Elder:	  I understand what you're saying. But...you're asking us to spill our blood for you.
+Arvis:	  That's not what we asked!
+Elder:	  What you ask is the same.
+Banon:	  Ha! You're absolutely right.
+Arvis:	  Banon!
+Banon:	  We're asking you to spill your blood.
+Banon:	  Emperor Gesthal is racing to acquire ever greater Magitek power. That's the reason he wants the esper that was discovered here. If we allow the Empire to continue amassing weapons of Magitek destruction...history's greatest mistake will be repeated.
+Elder:	  The War of the Magi... "The legendary conflict that laid waste to the world..." "You're saying it could happen again?"
+Elder: 	  I had thought humans to be wiser creatures...
+
+[Sabin arrives in Narshe.]
+
+Sabin:	  Edgar!
+Edgar:	  Sabin! You're all right!
+Edgar:    Who have you brought along?
+Cyan:	  I am Cyan, a warrior of the kingdom of Doma.
+Gau:	  Uwao...Gau!
+Sabin:	  The Empire killed everyone in Doma, down to the last child...
+Cyan:	  Kefka...poisoned them...
+Elder:	  Barbaric!
+Banon:	  Elder!
+Elder:	  But...that was because Doma was collaborating with the Returners. As long as we remain neutral, we have nothing to fear from the Empire.
+
+
+[Locke arrives in Narshe.]
+
+
+Locke:	  Think again!
+Terra:	  Locke!
+Locke:	  The Empire's poised to attack Narshe as we speak!
+Edgar: 	  What!?
+Banon:	  Locke, where did you manage to get your hands on information like that?
+Locke:	  Celes here was one of the Empire's gener--
+Cyan:	  So it is her! I thought she looked familiar. Sir Gau, step aside!
+Cyan:	 The infamous General Celes... The woman single-handedly responsible for the decimation of Maranada... Stand and meet thy judgment, Imperial b--
+Locke:	 Wait! Celes has promised to join the Returners! She's fighting on our side now!
+Cyan:	  Be that as it may...!
+Locke:	  I promised I'd protect her, and I won't give up a woman I've sworn to protect!
+Edgar:  Locke... You still haven't gotten over that, have you...?
+Terra:	  I was also an Imperial soldier.
+Cyan: 	  WHAT!?
+Edgar:	  The Empire is evil, but that doesn't mean that all of its citizens are.
+Sabin:	  I'm going to have to defer to my brother on this one...
+
+The Empire is here! We're under attack!!!
+
+
+[Kefka and many Imperial troops can be seen crossing the desert.]
+
+
+Kefka:I don't care what you have to do, just get me that esper!
+Soldier:  Kefka, sir... What about the civilians?
+Kefka:    What about them? Kill them all!
+Soldier:  But, sir, Narshe is a neutral city...!
+Kefka: Idiot! Read my lips -- mercy is for wimps! There's a reason "oppose" rhymes with "dispose"... If they get in your way, kill them! March!
+
+[The scene switches back to the Returners discussing with the Elder.]
+
+
+Elder:	  It seems the choice has been made for us. Let us make ready for war!
+Banon:	  They're here for the esper...
+Elder:	  We moved it up into the cliffs above the valley.
+Edgar:	  Then that's where we'll make our stand!
+
+
+[The group can be seen making their way to the cliffs.]
+
+Edgar:	  Locke has a complicated past. Don't go falling for him now, thinking he was protecting you out of love back there.
+Celes:	  Thanks for your concern, but I'm a soldier, not some love-starved twit.
+Edgar:	  So much for my next suggestion...
+
+Celes: Terra... Who'd have thought we'd meet again...like this?
+Terra: You can use magic, too...can't you? But...it's different from mine.
+Celes:	  I was raised to be an Imperial Magitek knight. When I was still very young, I was artificially infused with magic.
+Terra:	  ...Is it possible for you to love other people?
+Celes:	  ...? Are you mocking me?
+
+Cyan:	  Do not think for even a moment that I trust thee!
+Celes: Fine. Use your own eyes, and see for yourself which side I'm on.
+
+[The party arrives at the cliff, ready to defend the esper.]
+
+Here they come!
+
+Kefka:    Oh...! If it isn't General Celes, the traitor! Excellent! Now I won't have to hunt you down later!
+
+Kefka:	  Go! Get those vile insects!
+
+
+[The party battles many Imperial troops, then battles Kefka.]
+
+
+Kefka:	  Grr... Don't think you've won!
+Kefka:	  Grr! I won't forget this!
+
+Edgar:	  Where's the esper?
+Locke:	  Is it all right?
+
+
+[The party heads toward the summit where the esper rests.]
+
+
+Edgar:	  Whew... The esper's safe.
+Cyan:	  It also appears to be...alive.
+Sabin:	  Is that even possible...?
+Locke:	  Terra! What is it!?
+Terra:	  No!!!
+
+
+[The esper's bright light knocks the party off their feet.]
+
+
+Sabin:	  Terra and the esper...!
+Edgar:	  They're reacting to each other!
+
+Terra:	  What...? What is this I'm feeling!?
+Terra:	  Hmm? Wh-what's going on...?
+Terra:	  Please...tell me! Who am I? Who!?
+Locke:	  Terra!
+Celes:	  The esper... It's responding to her!
+Edgar:	  Terra... Get away from that thing!
+
+
+[Terra transforms into an esper and flys off. The party is back at the Arvis's house.]
+
+
+Locke:	  Uhhhn...
+Celes:	  Are you awake?
+Locke:	  ...Where's Terra!?
+Celes:	She turned into a...something...and flew off. She looked like...
+Celes:	  She looked like an esper.
+Edgar:	  Locke! Are you okay?
+Edgar:	  Something happened to Terra... There must be some sort of connection between her and that esper... We need to find her! Witnesses said she went streaking westward across the sky, beyond Figaro.
+Locke:	  We've got to hurry! I promised I'd protect her!
+Celes:	  Locke...
+Edgar:	  Let's not get ahead of ourselves. The Empire will be back again for that esper.
+Sabin:	  And someone needs to protect Banon...
+Cyan: A former Imperial soldier... But still... We must help her!
+Edgar:  Let's split up. Those who aren't searching for Terra will stay here to guard against further attacks. Figaro Castle can shuttle the others to the western province. It shouldn't be hard to track down clues in Kohlingen or Jidoor as to Terra's whereabouts.
+
++++++++++++++++++++++++++++++++
+Figaro Castle [020]
++++++++++++++++++++++++++++++++
+
+Sabin:	  Ah, this is just like old times! I'm gonna wander around for a bit!
+
+sabin:	  Hmm... Castle hasn't changed much...
+Sabin:	 And yet it's different... Mom and Dad are gone... Nothing can ever really be the same... Not after what happened...
+
+...tonight...
+...worst he's been...
+...so....if he should...
+
+No...!
+Y-you're wrong!
+...It's not true!
+
+Priestess...
+...The king, he's...
+
+Sabin...
+Sabin...!
+
+...Dad...couldn't have...
+
+Sabin:	   Edgar... ...*sob*...*sniffle*...
+Edgar:	   So... Dad...didn't make it...
+Priestess: Edgar! There you are!
+Priestess: Your father just said he would entrust Figaro to the two of you. 	   Those were his final words.
+Sabin: You all make me sick! Everyone's saying that the Empire had Dad poisoned...and the only thing any of you can think about is who'll	be the next king! No one's even sad!
+Sabin:	   None of you probably cared when Mom died after we were born, either.
+Priestess: That's not--
+Sabin:	   You're just as bad as the rest of them!
+Edgar:	   Sabin...
+Sabin: Empire of murderers...! They won't get away with this!
+Edgar:	   Priestess... Leave us.
+
+Sabin:	   Let's leave this place! Let's forget this crazy kingdom, and live  our lives how we want to!
+Sabin:	   You said you didn't want to be a king, right?
+Edgar:	   A life of freedom, huh...?
+Edgar:	   ...What do you think would happen to Figaro if both of us left?   There'd be no one to take the throne. Dad was counting on us to take	   care of the kingdom...
+Edgar:	   Sabin... Let's settle this with the toss of a coin. Dad gave me this   one.
+Edgar:	   If it's heads, you win. Tails, I win. The winner chooses whichever  path he wants...no regrets, not hard feelings. Okay?
+Edgar:	   Here we go...!
+
+Edgar:	   And...you chose your freedom.
+Edgar:	   It's already been ten years... That little shrimp has grown into a	   whopping lobster!
+Sabin:	   And you're a king crab!
+Edgar:	   Sabin... Do you think Dad would be proud of me?
+Sabin:	   Don't you ever doubt that! I'm sure he's beaming with pride,   wherever he is.
+Edgar:     Ten years...
+Sabin:	   Where has the time gone...?
+Edgar: 	   Here's to a couple of confused grownups! Drink!
+Edgar:	   Here's to Dad!
+Sabin:	   To Mom! And...to Figaro!
+
++++++++++++++++++++++++++++++++
+Kohlingen [021]
++++++++++++++++++++++++++++++++
+
+[The party enters into a local pub where they run into a familiar face.]
+
+Shadow:	   We meet again...
+Shadow:	   Leave me alone...
+
+[Locke enters into a house with lots of memories, a flashback occurs.]
+
+Locke:	   I... I couldn't protect her...
+
+Rachel:    Locke! What are we off to find today?
+Locke:	   It's almost your...
+Locke:	   There's supposed to be an amazing treasure hidden somewhere in this   mountain. We're gonna find it!
+Rachel:	   Locke! Look out!
+Locke:	   RACHEL!!!
+
+Locke:	   Rachel! Are you awake?
+Rachel:	   ... ...? I... I can't remember anything...
+
+Father:	   Get out of my house! It's your fault Rachel lost her memory!
+Locke:	   Wait! Just let me talk to her...!
+Rachel:	   Please, just go away! I don't know who you are, but my parents get  upset whenever you come here!
+
+Rachel would be better off without you hanging around, Locke. She's   going to have to make a start of it. With you here, she can't even	   do that...
+
+
+[Flashback ends.]
+
+
+Locke:	   A year went by... When I finally returned, I found out that Rachel   had been killed in an Imperial attack. Her memory had returned just  before she died. The last thing she said was...my name. I never  should have left her side. I... I failed her...
+
+
+[The group enters into another house, with a dead Rachel in the basement.]
+
+
+Oh, Locke! It's been a while! Ages even!
+Oh, that? Worry not, worry not! Your treasure's quite safe! Hee-hee	   hee...
+
+It's a good thing I'd just happened to have finished that herbal concoction back then! Now she'll never age a day!   Hee-hee-hee... Had to use my herbs, I did! Couldn't very well refuse with you begging me like that...
+
+
+[Flashback sequence occurs.]
+
+
+Locke:	   Rachel...
+Locke:	   You're sure the stuff will work?
+Of course, of course! The love of your life will sleep here just	   like this forever...and ever...and ever! Hee-hee-hee...
+Locke:	   If there were a way to...call her spirit back...
+A way to call her back, eh? ...You mean like that legendary	   treasure? Hee-hee-hee... Oh yes, I suppose if you had that...you  might be able to bring her around! Gwee-hee-hee-hee!
+
+
+[Another flashback ends.]
+
+
+Locke:	   I...failed her...
+
+Celes:	   Locke...
+
++++++++++++++++++++++++++++++++
+Zozo [022]
++++++++++++++++++++++++++++++++
+
+What brings you here on this fine day? Do you need to get through   here? I'm sorry, I didn't mean to be in your way!
+I'm not very strong in a fight and I'd hate for there to be any	  trouble, so why don't I just let you pass?
+
+
+[The party enters into battle with a strange man.]
+
+
+Terra:	  Uhrrr... Grrr...
+Terra?
+Terra?
+Ramuh:	  She's frightened.
+Who are you?
+Ramuh:	  This girl is you friend, I presume?
+Terra... Is she all right?
+Ramuh:	  So, her name is Terra... ...Terra, you say? Interesting...!
+
+
+[Terra starts going crazy again.]
+
+
+Ramuh:	  Her life is in no danger. She simply used a power she didn't know she  had, and it overwhelmed her. Now her body won't listen to what she's       telling it to do. As for myself, I am Ramuh -- the esper, Ramuh.
+You're an esper!?	  Don't espers live in another world?
+Ramuh:	  That doesn't mean there's anything stopping us from living in this	  one. Espers come in a variety of forms. My appearance is similar to	  your own, so I can live here as one of you without fear of anyone	  discovering the truth.
+Why hide the fact that you're an esper?
+Ramuh:	  Humans and espers are incompatible creatures.
+Locke:	  But my grandma told me that humans and espers once lived side by      side... Of course, that was only a bedtime story...
+Ramuh:	  No, that was no fairy tale. That was the truth. Humans and espers  used to live together in harmony. At least...until the War of the	  Magi.
+Until the War of the Magi...?
+Ramuh:	  It took place long ago... Espers fought humans who had been infused	  with magical powers extracted from other espers.
+
+
+[A flashback scene occurs.]
+
+
+Ramuh:	  After the meaningless war had ended, the espers fashioned a new 	  realm to which they exiled themselves. They feared that if they remained it would only be a matter of time before their powers were  targeted again. But then one day, about twenty years ago, humans   stumbled upon the entrance to that hidden realm... Humans who knew	  of espers and the secrets of our powers. And thus began the hunt.	  For Gesthal, the leader of the men, knew that he could use the powers  	 extracted from us to create an invincible army. As soon as we  realized what was happening, we erected a massive gate and forced	  humans out.
+
+
+[Flashback scenes end.]
+
+
+Ramuh:	  Those who were captured are now in the Empire's Magitek Research        Facility, being drained of their powers. I narrowly escaped that same  fate, and now I am here with you.
+
+
+[Locke puts Terra back into the bed.]
+
+
+Ramuh:	  She seems to have calmed down a bit...
+Ramuh:	  I called Terra here to me when I sensed that she had lost control.  She responded to that call.
+So Terra's...an esper?
+Ramuh:	  No, she's a bit different from us...
+She looks like she's in pain...
+Ramuh:	She is afraid of what she is, and that is a painful thing.
+What can we do to help her?
+Ramuh:	  Once she understands her true nature, the fear and doubt should  subside.
+Is there nothing we can do?
+Ramuh:	  The others of my kind who are trapped in Gesthal's Magitek Research. Facility may be able to help her.
+And if we can get inside that facility, you're sure we'll find them?
+Celes:	  ...The Magitek Research Facility? Your people are in there?
+Ramuh:	  I escaped alone, abandoning my friends and hiding here like a coward.  But I fear that I can remain here no longer.
+What do you mean?
+Ramuh:	  Gesthal's methods are mistaken. You can't drain an esper's powers by  force -- that weakens them. Only when we become magicite can our	  powers be transferred in full.
+What are you saying?
+Ramuh:	  I am going to turn myself into magicite so that I may lend you my  strength.
+Magicite...?
+Ramuh:	  Magicite is an esper's power in its purest form. When an esper dies, magicite is all that is left behind...  But...!
+
+
+[Espers turned into magicite fall from the ceiling.]
+
+
+Ramuh:	  These are my companions who fell as we fled the Empire... And I will  give you my power as well...
+
+
+[Ramuh turns himself into magicite.]
+
+
+Old man... You're really gone, aren't you...?
+He turned himself to magicite... He gave up his life to help us...  Why would you do such a thing?
+
+Ramuh:	   If our power is used for destruction, the skies will darken and life   will fade from the earth... You must stop them. There must not be a   second War of the Magi...
+
+Terra...wait for us. We'll be back for you!
+
+
+[The party gets ready to leave, but the others from Narshe have arrived.]
+Everyone's here? I was just thinking...
+Edgar: 	   Let's talk on the way back down!
+
+Edgar:	   So, the Empire's been draining magic from espers...
+Sabin:	   Celes, was all of that true?
+Celes:	   I was alseep when they performed my infusion, I don't know for sure.	   But...I've heard rumors to that effect.
+Cyan:	   Then I suppose we must find a way to slip into the Empire...
+Edgar:	   We'd best split up again. We still need to beef our defenses in    Narshe.
+Cyan:	   That would indeed be wise.
+Celes:	   I'll go to the Empire. I know it inside and out.
+Sabin:	   But alone...?
+Locke:	   Don't worry. I'll go with her.
+Celes:	   Locke!
+Cyan:	   It may not hurt to have a few more people along.
+
+Locke:	   Wait for us back in Narshe. Don't worry, we'll be fine! If we need   to change party members, I guess we'll just head back to Narshe...
+Celes:	   So...how are we going to get there? The Empire's on the southern   continent... They've closed down all the harbors, so there aren't    even any ships sailing there anymore.
+Locke:	   The town of Jidoor is to the south is full of wealthy aristocrats...	   One of them might know a way in. "Where there's a gil..."
+Celes:	   Locke.
+Locke:	   Yeah?
+Celes:	   Why are you coming with me?
+Locke:	   Hmm? Well...there's the rumor about that legendary treasure being	   there and all... I just wanted to have a look around.
++++++++++++++++++++++++++++++++
+Jidoor [023]
++++++++++++++++++++++++++++++++
+
+Impresario:  Maria!?
+Celes:	     ...M-me?
+Impresario:  Sorry, I mistook you for someone else. Wow, you could pass for    Maria in a heartbeat! ...Oh dear, we're really in trouble this     time...
+Celes looks like Maria...?
+That man must've dropped this...
+Maestro:     That man is the director of the troupe that performs at the opera	     house. Everyone just calls him "Impresario." He's been in a tizzy     ever since that letter arrived.
+
+"Dearest Maria,
+I've decided to take you as my wife, so I'll be coming to kidnap    you.
+The Wandering Gamble"
+
+Locke:	     Who's this "Wandering What's-His-Face"?
+Maestro:     Were you born on a farm, son?
+
+
+"A gambling vagabond who finds freedom from society's narrow views of morality aboard his airship, the Blackjack..."
+
+
+Maestro: That would be Setzer, owner of the world's only airship!
+Celes:	     If we had that airship, we'd have our way into the Empire...
+Locke:	     Let's set up a meeting with this Setzer.
+
++++++++++++++++++++++++++++++++
+Opera House [024]
++++++++++++++++++++++++++++++++
+
+Impresario:  Ah! It's you again!
+Locke:	     We read that letter. So, Setzer is coming to snatch Maria away...
+Impresario:  He'll probably appear rihgt at the climax of the first act. He     loves to make an entrance... *sigh*...
+Locke:	     All right! When he shows up, we'll jump out and nab him!
+Impresario:  Dear me, no! You'll ruin the performance! I'll lose my job!
+Celes:	     But if you don't do anything...!
+Impresario:  Oh, this is simply horrible! I want the performance to be success...but I don't want Maria to be abducted!
+Locke:	     Let him grab her.
+Locke:	     We'll use a decoy. Once he's got her, we'll follow him right back    to his airship. And if all goes well, we should be able to     commandeer it!
+Impresario:  Are you mad!? If anything should happen to Maria...
+Locke:	     That's why we use the decoy! We can hide Maria someplace safe!
+Impresario:  Come again?
+Locke:	     You said Celes looks like Maria, right?
+Celes:	     Now just a minute...
+Locke:	     She can our Maria! We'll let Setzer kidnap her and lead us to his    airship!
+Impresario:  Brilliant!
+Celes:	     H-hold on here! I'm a former general, not some opera floozy!
+
+
+[Celes rushes into the room just ahead, where singing can be heard.]
+
+
+Mi... Mi...
+Do, re, mi...
+Faaa...*hack* *cough*...
+Maaa...riii...aaaaaa!
+Locke:	     That's the spirit!
+
+Ultros:	     Mwa-ha-ha! I gots my own little surprise planned for y'all, just	     like Setzer! It'll be TONS of fun!
+
+
+[Ultros throws a letter just behind the group.]
+
+
+Locke:	     Better get to work! We've gotta make a star out of you, Celes!
+
+Ultros:	     Gaaaah! Isn't anyone gonna read it!?
+
+
+[The group sits down to watch the beginning of the opera.]
+
+
+The war between the East and the West was growing ever more     violent by the day... Draco, a soldier from the West, thinks of	     his love, Maria, back at home...
+
+
+"O Maria!
+O Maria!
+My beloved, do you hear
+My words whispered in your ear
+As if I were by your side?"
+
+
+Locke:   I'm going to go check on things in the dressing room.
+Impresario:  Oh, I hope this works...
+
+
+[Locke goes to check up on Celes.]
+
+
+Locke:	     Have you...always been that pretty?
+Celes:	  Locke... Why did you stand up for me when you did?
+Locke:	     ...Because I'm tired of standing by and doing nothing while I lose     the girls I like.
+Celes:	     Am I just a replacement...for her?
+Locke:	     ...That ribbon looks nice on you.
+Celes:	     I have to go on stage soon. This next scene's an important one.
+
+Maria starts to worry that something's happened to Draco, and     pours her feelings into song.
+
+Locke:	     Shouldn't you check the score one last time?
+
+The Western armies were defeated, and Maria's castle fell into	     the hands of the East. Forced to wed the Eastern Prince Ralse,   Maria still thinks only Draco as she gazes at the stars each 	     night...
+
+"O my hero, my beloved,
+Shall we still be made to part,
+Though promises of perennial love
+Yet sing here in my heart?
+I'm the darkness,
+You're the starlight
+Shining brightly from afar.
+Through hours of despair,
+I offer this prayer
+To you, my evening star.
+Must my final vows exchanged
+Be with him and not you?
+Were you only here
+To quiet my fear...
+O speak! Guide me anew."
+
+Draco:	      Come, Maria! Dance with me...
+Draco:	      Ha-ha-ha...!
+
+"I'm thankful, my beloved,
+For your tenderness and grace.
+I see in your eyes,
+So gentle and wise,
+All doubts and fears erased!
+Though the hours take no notice
+Of what fate might have in store,
+Our love, come what may,
+Will never age a day.
+I'll wait forevermore!"
+
+Chancellor:    Prince Ralse is looking for his dance partner. Please, leave the     past behind! Our kingdom is part of the East now...
+
+Locke:	       You were wonderful, Celes.
+
+
+[Locke notices a letter on the ground.]
+
+
+I owe you guys one, so I'm gonna jam up your opera!
+Ultros
+
+Locke:	       Uh-oh... Better tell the impresario!
+Impresario:    What!?
+
+
+[The opera continues on.]
+
+
+Soldier:       The Western survivors attack!
+Ralse:	       Impossible!
+Attack!
+
+Wait!
+
+[Draco enters onto the stage.]
+
+"Maria!"
+
+"Oh, Draco!
+I knew you would
+Come for me, my love!"
+
+"Insolent rogue!
+Knave of the Western horde!
+You would address my queen to be,
+Maria?"
+
+"Never shall you have Maria's hand!
+I would die before that day comes!"
+
+"Then it's a duel!"
+
+
+[Scene switches back to Locke and the Impresario.]
+
+
+Impresario:     But how is he planning to disrupt the opera? ...With that!?
+
+Ultros: 	Mwa-ha-ha! Let's see if Maria can shrug this off!
+Ultros:	        N'ghaaa! This is heavier than I thought! It's gonna make me 5       minutes to push this thing off!
+Locke:	        Looks like we haven't a second to lose!
+Impresario:	Talk to the stagehand in the room up on the right! He'll help      you get up there!
+Locke:	        Leave it to us!
+
+
+[The group goes to see the stagehand.]
+
+
+Stagehand:	The impresario sent you? You need to get up to the catwalk! Lower the switch on the far right. Bu don't touch any of the others!
+
+[The party meets up with Ultros.]
+
+Ultros:	        Huh...? Oh, rats!
+
+
+[Ultros and the party fall onto the middle of the stage.]
+
+
+Impresario:	Oh no, this'll never do! With those two flattened, there's no        one to win the girl! How can the story possibly continue!?
+Locke:	        Neither Draco nor Ralse will win Celes's hand!
+Locke:	        It is I, Locke, the world's premier adventurer, who shall take        her as my wife!
+Impresario:	Oh, dear... What dreadful acting!
+Ultros:	        Silence, knave! You stand in the presence of octopus royalty!        A lowborn thief like you could never defeat me! I challenge you	       to a duel!
+Impresario:	Hmm... Might as well make the most of this. MUSIC!
+
+
+[The party enters into battle with Ultros.]
+
+
+Ultros:	        It's me again! Long time no see! Did ya miss me?
+Ultros:	        Here! Over here!
+Ultros:	        I ain't no garden-variety octopus!
+Ultros:	        Imp! Buddy! Pal!
+Ultros:	        Thwarted again! I feel like such a sucker. Well, kids, I hate      to ink and run...but I AM an octopus!
+
+
+[The group defeats Ultros.]
+
+
+Hold it right there!
+My compliments on a most impressive performance!
+
+Impresario:	Setzer!
+Setzer:	 I'm a man of my word, Impresario. I'm taking Maria!
+Celes:	        Whaaa--
+Impresario:	Unforeseen twists at every turn! Just as we think Maria is to       become Locke's new bride, she's dragged off by Setzer instead!	What fate lies in store for her now? Be sure to come back and       see Part Two!
+
+
+[Scene switches to Setzer's ship.]
+
+
+Setzer:	Don't worry, I'll give you plenty of attention later.
+
+Locke:  What a performance! You're a great fake actress, Celes.
+Celes:	        Enough!
+Locke:	     But the real show starts now. It's time for Act Two!
+Locke:		Where's Setzer?
+Celes:		He should be right back.
+
+Setzer:	Wh-what are you doing here? Y-you're not Maria, are you!?
+Celes:		Setzer, we need your help. We need to get to Vector. Your ship is the only--
+Setzer:	If you're not Maria, then we have nothing to talk about.
+Celes:	Wait! We heard that your ship is the finest vessel in the world
+Locke:	And that you were the world's greatest gambler...
+Edgar:	I'm the king of Figaro. If you help us, you'll be well       rewarded...
+Setzer:		Come with me.
+Celes:		Then you'll...?
+Setzer:	Don't misunderstand. I still haven't said I'll help you.
+
+
+[The group goes with Setzer to a different part of the airship.]
+
+
+Setzer:		Hmm... Business has been awfully slow lately, thanks to the Empire...
+Celes:		You're not the only one suffering. The Empire has been toppling	towns and villages left and right...
+Locke:		They're abusing their Magitek power and trying to take over	the world.
+Edgar:		My kingdom was allied with the Empire...until recently.
+Sabin:		Maybe you want to be a slave to the Empire, but I sure don't.
+Setzer:		...Hmm.
+Celes:		We're at least together in hating the Empire, right? So, 	please...
+Setzer:		You know, I think you may be even cuter than Maria.
+Celes:		Huh?
+Setzer:		All right! If you... If Celes becomes my wife, I'll help you.		Otherwise...
+Locke:		WHAT!? Are you crazy!?
+Celes:		...Fine.
+Setzer:		Great! It's settled!
+Celes:		But I have some conditions... We flip this coin. If it's heads,	you help us. If it's tails, I'm yours. Well, Mr. Gambler?
+Setzer:		Ha! I like it! I accept.
+Locke:		Celes... Are you serious...? If you marry that guy...
+Celes:		Ready?
+
+
+[Celes flips the coin into the air.]
+
+
+Celes:		Heads... I win. Now it's time for you to hold up your end of	the bargain.
+Setzer:		...A valuable trinket indeed. I've never seen a double-headed coin before.
+Sabin:		That coin...!? Edgar! Don't tell me...!
+Celes:	I'm afraid you've been hustled, Mr. Gambler. But that's part of		the game, now, isn't it?
+Setzer:		Ha! How low can you stoop? ...I love it! All right, I'll help	you. Gambling against the Empire, with nothing to lose but my	life... I haven't felt so excited in years! My life is a chip 	in your pile! Ante up!
+
+[The group is on top of the airship deck.]
+
+Locke:	I can't believe this clunky old thing can fly... You sure it'll 	stay in the air?
+Setzer:	When things fall, they fall... Life's a game of chance. You	play your cards, and Fate plays hers...
+Locke:	They'll spot us in the air from miles away if we try to fly this thing into the Empire. We'd better land a safe distance 	away.
+Setzer:	That sounds like a good idea. I'll stay on board and keep the 	ship ready to take off at a moment's notice.1

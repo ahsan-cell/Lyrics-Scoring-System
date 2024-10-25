@@ -1,0 +1,105 @@
+
+2-  Most of the songs are in multiple albums and written with different spellings. We’ll create one page for them with the most used title.
+
+3-  Some of the artist have multiple pages with different spellings. We'll use the name of the page with the most monthly listeners on Spotify.
+
+4- Our source for artist credits is Apple Music.Updated on November 9th 2019"Makhlough" by Googoosh
+"Chra  Nemiraghassy" by Viguen
+"Bia  Benevisim" by Mahasti
+"Deleh Divuneh" by Hayedeh
+"Age  Ye Rooz" by Faramarz Aslani
+"Cheshme Man" by Dariush
+"Rood Khooneha" by Ramesh
+"Shaneh" by Viguen & Pouran
+"Gharibe  Ashena" by Googoosh
+"Havar Havar" by Kourosh Yaghmaei
+"Del Assire" by Faramarz Aslani
+"Saghi" by Hayedeh
+"Man Amadeham" by Googoosh
+"Kavire Del" by Marjan
+"Del Ey Del" by Leila Forouhar
+"Daram Ashegh Misham Ashegh" by Betti
+"Nazi Naz Kon" by Ebi
+"Ey Eshgh" by Dariush
+"Gole Bee Goldoon" by Googoosh
+"Gole Sang" by Anoushirvan Rohani
+"Gole Yakh" by Kourosh Yaghmaei
+"Bezan Tar" by Hayedeh
+"Niloofar" by Andy & Kouros
+"Shabeh Eshgh" by Hayedeh
+"Gole Maryam" by Giti
+"Tasavor Kon" by Siavash Ghomayshi
+"Nefrin" by Sattar
+"Soltane Ghalbha" by Aref
+"Az Tou Tanha Shodam" by Simin Ghanem
+"Ghorbat" by Ebi
+"Kooh" by Googoosh
+"Miravi" by Soli
+"Dastaye Tou" by Dariush
+"Soghati" by Hayedeh
+"Kavir" by Googoosh
+"Vasoonak" by Shahla Sarshar
+"Golvajeh" by Ebi
+"Talaagh" by Googoosh
+"Zemestoon" by Afshin Moghadam
+"Shekar" by Ebi
+"Mano Tou" by Googoosh
+"Majnoone Tou" by Marzieh
+"Jashne Deltangi" by Dariush
+"Niyayesh" by Kourosh Yaghmaei
+"Pol" by Googoosh
+"Sekeh Mah" by Marjan
+"Hamzabon" by Nooshafarin
+"Hichkas Mesle Tou Nabood" by Moein
+"Ey Khoda (Donya Dou Roozeh)" by Aref
+"Be Man Nagoo Dooset Daram" by Dariush
+"Noono Paniro Sabzi" by Ebi
+"Yaavar" by Dariush
+"Halghe Tala" by Moein
+"Doostet Daram Ghade Ye Donya" by Martik
+"Yek Darmiyan" by Nazi Afshar
+"Khooneh Khali" by Marjan
+"Panjareh" by Moein
+"Khater Khah" by Ahdiyeh
+"Farda Tou Miayee" by Houshmand Aghili
+"Bordi Az Yadam" by Viguen & Delkash
+"Kalaghha" by Manoochehr Sakhai
+"Asal" by Ebi
+"Khalij" by Ebi
+"Maah" by Martik
+"Alam E Yekrangee" by Hayedeh
+"Nefrin" by Artoush
+"Shahre Gham" by Dariush
+"Seeb" by Simin Ghanem
+"Faryad" (Ft. Hayedeh) by Anoushirvan Rohani
+"Come On! Come On!/ Bodo! Bodo! - Live" by Ebrahim Monsefi
+"Khali" by Ebi
+"Hamsafar" by Googoosh
+"Tange Ghoroobeh" by Dariush
+"Gole Sorkh" by Viguen
+"Ay Yar Begoo" by Ebi
+"Kabotar" by Maziar
+"Saz E Zendigi" by Farzin
+"Bemoon Ta Bemoonam" by Googoosh
+"Bahare Man" by Emad Raam
+"Leila" by Kourosh Yaghmaei
+"Nimeyeh Gomshodeyeh Man" by Googoosh
+"Bahar" by Martik
+"Khaar" by Kourosh Yaghmaei
+"Mehmoone Aziz" by Faridun Farahi
+"Gollake Cheshat" by Simin Ghanem
+"Jaane Maryam" by Mohammad Nouri
+"Labe Darya" by Ramesh
+"Gole Pooneh" by Sattar
+"Aashianeh" by Fereidoon Farrokhzad
+"Delam Gerefteh" by Golpa
+"Chelcheleh" by Hassan Shamaizadeh
+"Sogand" by Viguen
+"Sahar" by Emad Raam
+"Dast Beh Dastmalom" by (Not Sure!)
+"The Whale/ Nahang - Live" by Ebrahim Monsefi
+"Heleh Dan Dan (Bandari)" by Betti
+"Nashnakhteh" by Pouran
+"Zemzemeh" by Homayra
+"Dast Negah Dar" by Gholam Ali Ravanbakhsh
+"Naleh Bar Lab" by Kouros Sarhangzadeh2

@@ -1,0 +1,9 @@
+Rate these song lyrics on a scale of 0-10 based on how much they would stimulate oxytocin release in listeners. Consider factors like:
+Themes of bonding, trust, and intimacy (increase score)
+Expressions of love and affection (increase score)
+References to physical touch or closeness (increase score)
+Angry or confrontational language (decrease score)
+Themes of betrayal or distrust (decrease score)
+You will only output a single score number
+A 0 would indicate the lyrics are likely to inhibit oxytocin release, while a 10 would indicate they strongly promote oxytocin release and feelings of connection.
+If the input does not seem like lyrics of a song then give -1 score.
